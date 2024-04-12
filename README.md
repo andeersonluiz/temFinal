@@ -42,4 +42,3 @@ Caso tenha alguma dúvida ou deseje entrar em contato, você pode me encontrar e
 
 - [LinkedIn] https://www.linkedin.com/in/anderson-luiz-05b485208
 - [Email] andeersonrocha1998@gmail.com
-- [Url do aplicativo] https://play.google.com/store/apps/details?id=com.owly.temfinal
