@@ -3,8 +3,7 @@
 <p align="center">
 <img src="https://github.com/andeersonluiz/temFinal/assets/42013276/5563246a-9486-480b-b311-60c61224c75b">
 </p>
-Tem Final é um aplicativo de filmes e séries onde os usuários podem opinar se um determinado título possui final ou não. O aplicativo está disponivel no Google Play (https://play.google.com/store/apps/details?id=com.owly.temfinal)
-
+Tem Final é um aplicativo de filmes e séries onde os usuários podem opinar se um determinado título possui final ou não.
 ## Tecnologias Utilizadas
 
 - Flutter (Clean Architeture com BLoC como gerenciador de estado e Provider como injetor de dependências)
