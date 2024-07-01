@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://github.com/andeersonluiz/temFinal/assets/42013276/5563246a-9486-480b-b311-60c61224c75b">
+<p>Código-fonte do projeto: https://github.com/andeersonluiz/tem_final.git </p>  
 </p>
 Tem Final é um aplicativo de filmes e séries onde os usuários podem opinar se um determinado título possui final ou não.
 ## Tecnologias Utilizadas
