@@ -5,6 +5,7 @@
 <p>Código-fonte do projeto: https://github.com/andeersonluiz/tem_final.git </p>  
 </p>
 Tem Final é um aplicativo de filmes e séries onde os usuários podem opinar se um determinado título possui final ou não.
+
 ## Tecnologias Utilizadas
 
 - Flutter (Clean Architeture com BLoC como gerenciador de estado e Provider como injetor de dependências)
